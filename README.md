@@ -1,2 +1,3 @@
 # 250701704-Shreya-DBMS
-DBMS LeetCode Programs and Project Report
+LeetCode Profile Link:
+https://leetcode.com/u/shreya_kidangappilly/
